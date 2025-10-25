@@ -297,7 +297,7 @@ loadSessions();
 
 /* ---------- Utilities ---------- */
 function defaultSession() {
-  const init = 73.2;
+  const init = 0.0;
   return {
     isLicensed: false,
     wallet: null,
@@ -464,7 +464,7 @@ This feature is reserved for licensed users. To unlock the full power of the Sni
 
 *Ready to dominate the market?*
 
-[Choose Your Plan](https://sinpex.kesug.com/#pricing) | [Contact to Purchase](https://t.me/dguyhimself)  `;
+[Choose Your Plan](https://snipex.kesug.com/#pricing) | [Contact to Purchase](https://t.me/dguyhimself)  `;
   try {
     if (ctx.callbackQuery) {
       await ctx.answerCbQuery("A license is required to use this feature.", {
@@ -3490,7 +3490,7 @@ function makePerformanceText(s) {
     `Total Buy Volume: <code>${formatUSD(totalVolume)}</code>`,
     "",
     "↔️ <b>Fund Flow</b>",
-    `Total Deposits: <code>$73.20</code>`,
+    `Total Deposits: <code>$0.0</code>`,
     `Total Withdrawals: <code>$362.33</code>`,
     "",
     "<i>This is a snapshot of your performance. Use the main menu to continue.</i>",
