@@ -445,26 +445,26 @@ function applySlippage(amountUSD, slippagePctMax = 3) {
 
 async function sendLicenseRequiredMessage(ctx) {
   const message = `
-  🚀 *Upgrade to SniperX Pro* 🚀
+*Access Denied: A SnipeX License is Required*
 
-  Thank you for your interest in our advanced features. To unlock the full potential of SniperX and access this functionality, a Pro license is required.
+This feature is reserved for licensed users. To unlock the full power of the SnipeX trading suite, please upgrade your plan.
 
-  *Your Pro License Unlocks:*
-  - 🎯 *Advanced Sniping Engine*: Utilize our high-speed Auto, Semi-Auto, and Scheduled sniping modes.
-  - 🐋 *Intelligent Copy Trading*: Automatically mirror trades from top-performing wallets.
-  - 💸 *Seamless Fund Management*: Deposit and Withdraw funds across multiple networks (ETH, BSC, SOL) with ease.
-  - 📊 *In-Depth Performance Analytics*: Monitor your P/L, review detailed transaction history, and generate performance snapshots.
-  - 🧪 *Exclusive Market Tools*: Get a first look at institutional-grade tools like coin pumping and wash trading simulations.
-  - ⚙️ *Full Operational Control*: Customize sniping speed, define auto-sell rules with profit targets and stop-losses, and manage notification preferences.
+*Key Features You'll Unlock:*
+• *Multi-Wallet Management*: Coordinate trades across multiple wallets.
+• *Auto & Semi-Auto Snipes*: High-speed, automated execution.
+• *Anti-Rug & Security Scan*: Trade with greater confidence.
+• *Advanced Sell Strategies*: Set automatic take-profit and stop-loss triggers.
+• *Performance Dashboard*: Track your P/L and ROI in real-time.
+• *Market Manipulation Suite* (Whale Plan): Strategically build market depth.
 
-  *How to Get Your License*
-  To purchase your lifetime license and gain immediate access, please visit our official website:
-  🌐 *sinpex.kesug.com*
+*How to Upgrade:*
+1.  Visit our official website to view plans.
+2.  Contact our team via the link below to purchase.
+3.  Paste your license key back in this chat to activate instantly.
 
-  For direct inquiries or support, you can also contact our team on Telegram: *@dguyhimself*.
+*Ready to dominate the market?*
 
-  Once you have received your license key, simply paste it into this chat to activate your Pro features instantly. We look forward to welcoming you to the Pro tier!
-  `;
+[Choose Your Plan](https://sinpex.kesug.com/#pricing) | [Contact to Purchase](https://t.me/dguyhimself)  `;
   try {
     if (ctx.callbackQuery) {
       await ctx.answerCbQuery("A license is required to use this feature.", {
