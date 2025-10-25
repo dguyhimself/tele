@@ -1,0 +1,4272 @@
+{
+  "1564589488": {
+    "isLicensed": true,
+    "wallet": "0xwallet_o3uzk61addr_hcb6tfn",
+    "awaitingTokenAddress": false,
+    "pendingToken": "jdioajwoeu102391231",
+    "running": false,
+    "startAt": 1761229759988,
+    "statusMessageId": 319,
+    "funds": 536.98,
+    "initialFunds": 73.2,
+    "fundsHistory": [
+      298.76,
+      298.89,
+      299.1,
+      299.02,
+      316.53,
+      316.53,
+      327.86,
+      314.3,
+      329.78,
+      336.16,
+      336.03,
+      335.84,
+      445.41,
+      445.29,
+      449.15,
+      449.16,
+      446.63,
+      446.46,
+      457.14,
+      457.3,
+      443.2,
+      443.13,
+      443.14,
+      442.97,
+      443.78,
+      443.67,
+      446.07,
+      446.07,
+      435.68,
+      435.91,
+      436.16,
+      446.8,
+      449.67,
+      449.55,
+      449.62,
+      449.72,
+      484.18,
+      484.14,
+      484.11,
+      483.93,
+      485.1,
+      485.33,
+      485.49,
+      485.3,
+      487.61,
+      531.19,
+      531.2,
+      536.79,
+      539.2,
+      539.01,
+      547.81,
+      547.97,
+      547.76,
+      547.92,
+      547.74,
+      551.03,
+      550.96,
+      536.98,
+      537.02,
+      536.98
+    ],
+    "snipedCount": 41,
+    "history": [
+      {
+        "kind": "snip",
+        "value": 1.19,
+        "time": 1761229322226,
+        "meta": {
+          "token": "TKMV",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_e1t6xql",
+          "price": 0.666441,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 13.79,
+        "time": 1761229324227,
+        "meta": {
+          "token": "TKBD",
+          "name": "PixelCat",
+          "mint": "FAKE_MINT_id_19ptcge",
+          "price": 0.376909,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -3.51,
+        "time": 1761229328229,
+        "meta": {
+          "token": "TKX2",
+          "name": "WarpCoin",
+          "mint": "FAKE_MINT_id_m5o0xtu",
+          "price": 0.650651,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 6.1,
+        "time": 1761229330230,
+        "meta": {
+          "token": "TKE4",
+          "name": "ZetaChain",
+          "mint": "FAKE_MINT_id_nuocc3w",
+          "price": 0.654268,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -2.86,
+        "time": 1761229338235,
+        "meta": {
+          "token": "TKKQ",
+          "name": "QuantumLeap",
+          "mint": "FAKE_MINT_id_qv5clc9",
+          "price": 0.682696,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 12,
+        "time": 1761229342238,
+        "meta": {
+          "token": "TK3Y",
+          "name": "Solstice",
+          "mint": "FAKE_MINT_id_stlsgel",
+          "price": 0.128724,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.36,
+        "time": 1761229344240,
+        "meta": {
+          "token": "TKVJ",
+          "name": "Pulsar",
+          "mint": "FAKE_MINT_id_4duduks",
+          "price": 0.674627,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 15.22,
+        "time": 1761229346241,
+        "meta": {
+          "token": "TKZO",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_tmzqk19",
+          "price": 0.083566,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.8,
+        "time": 1761229350245,
+        "meta": {
+          "token": "TKZY",
+          "name": "Serenity",
+          "mint": "FAKE_MINT_id_qhmspcz",
+          "price": 0.098942,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 31.46,
+        "time": 1761229354249,
+        "meta": {
+          "token": "TKXC",
+          "name": "ApexToken",
+          "mint": "FAKE_MINT_id_c62on05",
+          "price": 0.0945,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "buy",
+        "value": -50,
+        "time": 1761229379184,
+        "meta": {
+          "token": "DJAI",
+          "name": "TerraM",
+          "price": 0.091269
+        }
+      },
+      {
+        "kind": "sell",
+        "value": 9.76,
+        "time": 1761229382158,
+        "meta": {
+          "token": "DJAI",
+          "name": "TerraM"
+        }
+      },
+      {
+        "kind": "buy",
+        "value": -10,
+        "time": 1761229401389,
+        "meta": {
+          "token": "JDIO",
+          "name": "ApexToken",
+          "price": 0.195351
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.01,
+        "time": 1761229465217,
+        "meta": {
+          "token": "TK6U",
+          "name": "AstroPup",
+          "mint": "FAKE_MINT_id_ksuotcv",
+          "price": 0.816994,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -4.08,
+        "time": 1761229467218,
+        "meta": {
+          "token": "TKHN",
+          "name": "Yotta",
+          "mint": "FAKE_MINT_id_3bkdnde",
+          "price": 0.657308,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 6.63,
+        "time": 1761229477225,
+        "meta": {
+          "token": "TK2N",
+          "name": "Yotta",
+          "mint": "FAKE_MINT_id_j9xp6ml",
+          "price": 0.173456,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 97.76,
+        "time": 1761229481228,
+        "meta": {
+          "token": "TKJK",
+          "name": "SolanaGator",
+          "mint": "FAKE_MINT_id_42t2ukj",
+          "price": 0.521014,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 7.18,
+        "time": 1761229483229,
+        "meta": {
+          "token": "TKKR",
+          "name": "Velocity",
+          "mint": "FAKE_MINT_id_35bvzkm",
+          "price": 0.650074,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 42.85,
+        "time": 1761229489234,
+        "meta": {
+          "token": "TKAO",
+          "name": "DogeZilla",
+          "mint": "FAKE_MINT_id_2f04m9q",
+          "price": 0.470833,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -6.04,
+        "time": 1761229493237,
+        "meta": {
+          "token": "TK0P",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_nmtujaz",
+          "price": 0.686069,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 17.39,
+        "time": 1761229503245,
+        "meta": {
+          "token": "TK1M",
+          "name": "Solstice",
+          "mint": "FAKE_MINT_id_ck11p2h",
+          "price": 0.596865,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 11.37,
+        "time": 1761229552847,
+        "meta": {
+          "token": "TKYM",
+          "name": "Grok Inu",
+          "mint": "FAKE_MINT_id_j2onnp8",
+          "price": 0.639528,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -13.49,
+        "time": 1761229554848,
+        "meta": {
+          "token": "TKYI",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_ujqe1vn",
+          "price": 0.380415,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 15.56,
+        "time": 1761229556850,
+        "meta": {
+          "token": "TKSX",
+          "name": "Quasar",
+          "mint": "FAKE_MINT_id_lvyn4tc",
+          "price": 0.412608,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 6.29,
+        "time": 1761229558852,
+        "meta": {
+          "token": "TKPU",
+          "name": "Pulsar",
+          "mint": "FAKE_MINT_id_3xiwa84",
+          "price": 0.298174,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 109.6,
+        "time": 1761229564866,
+        "meta": {
+          "token": "TKWU",
+          "name": "WarpCoin",
+          "mint": "FAKE_MINT_id_pey6jf4",
+          "price": 0.332492,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.6,
+        "time": 1761229568868,
+        "meta": {
+          "token": "TKDM",
+          "name": "StellarJay",
+          "mint": "FAKE_MINT_id_cnwlraq",
+          "price": 0.751818,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -2.62,
+        "time": 1761229572873,
+        "meta": {
+          "token": "TKJQ",
+          "name": "MogChain",
+          "mint": "FAKE_MINT_id_rwek35a",
+          "price": 0.50397,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 10.67,
+        "time": 1761229576875,
+        "meta": {
+          "token": "TKCE",
+          "name": "TurboFrog",
+          "mint": "FAKE_MINT_id_ffrc2v7",
+          "price": 0.124695,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -14.33,
+        "time": 1761229580877,
+        "meta": {
+          "token": "TK9Y",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_xyref6c",
+          "price": 0.676504,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.01,
+        "time": 1761229588884,
+        "meta": {
+          "token": "TK81",
+          "name": "Yotta",
+          "mint": "FAKE_MINT_id_jpnwh6a",
+          "price": 0.572904,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.29,
+        "time": 1761229592887,
+        "meta": {
+          "token": "TKFI",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_l6sc88p",
+          "price": 0.498209,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -10.26,
+        "time": 1761229762385,
+        "meta": {
+          "token": "TKJW",
+          "name": "QuantumLeap",
+          "mint": "FAKE_MINT_id_82m6un7",
+          "price": 0.023363,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 10.4,
+        "time": 1761229768390,
+        "meta": {
+          "token": "TK0T",
+          "name": "ZetaChain",
+          "mint": "FAKE_MINT_id_mbv616b",
+          "price": 0.758417,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.03,
+        "time": 1761229770391,
+        "meta": {
+          "token": "TKX9",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_zuib6o8",
+          "price": 0.099887,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 34.21,
+        "time": 1761229778397,
+        "meta": {
+          "token": "TKKI",
+          "name": "Yotta",
+          "mint": "FAKE_MINT_id_vajb85h",
+          "price": 0.80539,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.35,
+        "time": 1761229786404,
+        "meta": {
+          "token": "TKXR",
+          "name": "TurboFrog",
+          "mint": "FAKE_MINT_id_33zoe9z",
+          "price": 0.559923,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.28,
+        "time": 1761229794409,
+        "meta": {
+          "token": "TKV6",
+          "name": "NexusCoin",
+          "mint": "FAKE_MINT_id_3nnaql1",
+          "price": 0.446912,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 43.79,
+        "time": 1761229796411,
+        "meta": {
+          "token": "TKXH",
+          "name": "RiftCoin",
+          "mint": "FAKE_MINT_id_k8srk5b",
+          "price": 0.557294,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.43,
+        "time": 1761229800415,
+        "meta": {
+          "token": "TKAF",
+          "name": "TurboFrog",
+          "mint": "FAKE_MINT_id_hdak62m",
+          "price": 0.392458,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.5,
+        "time": 1761229802416,
+        "meta": {
+          "token": "TK06",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_w8k5uz4",
+          "price": 0.681139,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 8.94,
+        "time": 1761229806418,
+        "meta": {
+          "token": "TK21",
+          "name": "QuantumLeap",
+          "mint": "FAKE_MINT_id_pbiavbn",
+          "price": 0.636866,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.31,
+        "time": 1761229816424,
+        "meta": {
+          "token": "TKVB",
+          "name": "TerraM",
+          "mint": "FAKE_MINT_id_i9yju31",
+          "price": 0.470742,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -13.84,
+        "time": 1761229820426,
+        "meta": {
+          "token": "TKZR",
+          "name": "PepeGrow",
+          "mint": "FAKE_MINT_id_yajspuf",
+          "price": 0.769193,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      }
+    ],
+    "lastBought": {
+      "token": "JDIO",
+      "name": "ApexToken",
+      "amount": 10,
+      "received": 51.1899,
+      "pricePerToken": 0.195351,
+      "boughtAt": 1761229401388,
+      "slippage": "0.22",
+      "slDirection": "worse"
+    },
+    "stoppedAt": 1761229826032,
+    "settings": {
+      "snipingSpeed": "normal",
+      "autoSell": {
+        "enabled": false,
+        "profitPct": 20,
+        "stopLossPct": 10
+      },
+      "notificationVolume": "normal"
+    },
+    "copyTrading": {
+      "enabled": false,
+      "whaleAddress": null,
+      "buyAmountMode": "fixed",
+      "buyAmountFixed": 20,
+      "buyAmountPercent": 1,
+      "sellOnWhaleSell": true,
+      "slippage": 3,
+      "minWhaleTxValue": 500,
+      "portfolio": {},
+      "statusMessageId": null
+    },
+    "awaitingWhaleAddress": false,
+    "awaitingCopyBuyAmount": false,
+    "watchlist": [],
+    "alerts": [],
+    "scheduledSnipes": [],
+    "awaitingWithdrawNetwork": true,
+    "withdrawNetwork": null,
+    "awaitingWithdrawCoin": false,
+    "withdrawCoin": null,
+    "awaitingWithdrawAmount": false,
+    "awaitingDepositNetwork": true,
+    "depositNetwork": null,
+    "awaitingDepositCoin": false,
+    "depositCoin": null,
+    "awaitingDepositAmount": false,
+    "_lastGas": 317,
+    "_engineCpu": 67,
+    "_engineMem": 44,
+    "awaitingPumpToken": false,
+    "pendingPumpToken": "Wwz4iAefTiMiozyHkCR5N6KFWqdx7zKGTaRXwTDpump",
+    "pendingPumpSettings": {
+      "wallets": 12,
+      "perWalletUSD": 20,
+      "mode": "Multi-wallet"
+    },
+    "pump_fixed": false,
+    "pumpRunning": false,
+    "pumpStartAt": 1761229860256,
+    "pumpToken": "Wwz4iAefTiMiozyHkCR5N6KFWqdx7zKGTaRXwTDpump",
+    "pumpFake": {
+      "symbol": "WWZ4",
+      "name": "Pulsar",
+      "price": 0.183357
+    },
+    "pumpWallets": 12,
+    "pumpPerWallet": 20,
+    "pumpInitialMC": 29359,
+    "pumpCurrentMC": 33540,
+    "pumpInitialPrice": 0.183357,
+    "pumpCurrentPrice": 0.20946309,
+    "pumpWalletActivity": [
+      {
+        "type": "buy",
+        "wallet": 11,
+        "amount": 16.98,
+        "priceImpact": 2.48,
+        "time": 1761229878977
+      },
+      {
+        "type": "buy",
+        "wallet": 8,
+        "amount": 19.99,
+        "priceImpact": 3.29,
+        "time": 1761229875976
+      },
+      {
+        "type": "buy",
+        "wallet": 2,
+        "amount": 21.48,
+        "priceImpact": 1.65,
+        "time": 1761229874474
+      },
+      {
+        "type": "buy",
+        "wallet": 9,
+        "amount": 23.59,
+        "priceImpact": 2.93,
+        "time": 1761229871471
+      },
+      {
+        "type": "buy",
+        "wallet": 10,
+        "amount": 21.41,
+        "priceImpact": 0.51,
+        "time": 1761229866968
+      },
+      {
+        "type": "buy",
+        "wallet": 12,
+        "amount": 23.76,
+        "priceImpact": 1.45,
+        "time": 1761229863967
+      },
+      {
+        "type": "buy",
+        "wallet": 5,
+        "amount": 23.99,
+        "priceImpact": 1.65,
+        "time": 1761229862466
+      }
+    ],
+    "pumpMessageId": 322
+  },
+  "7786874990": {
+    "isLicensed": true,
+    "wallet": null,
+    "awaitingTokenAddress": false,
+    "pendingToken": null,
+    "running": false,
+    "startAt": 1761133425254,
+    "statusMessageId": 172,
+    "funds": 361.09,
+    "initialFunds": 73.2,
+    "fundsHistory": [
+      361.06,
+      361.16,
+      361.03,
+      361.05,
+      361.17,
+      361.23,
+      361.09,
+      360.96,
+      360.93,
+      360.88,
+      361.1,
+      361.34,
+      361.15,
+      361.23,
+      361.11,
+      360.9,
+      361.05,
+      360.88,
+      360.68,
+      360.77,
+      360.7,
+      360.54,
+      360.55,
+      360.59,
+      360.76,
+      360.78,
+      360.99,
+      360.93,
+      361.11,
+      360.96,
+      360.85,
+      360.62,
+      360.83,
+      360.94,
+      360.85,
+      360.7,
+      360.83,
+      360.97,
+      361.19,
+      361.34,
+      361.31,
+      361.14,
+      361.38,
+      361.15,
+      360.96,
+      361.09,
+      361.25,
+      361.25,
+      361.32,
+      361.38,
+      361.29,
+      361.06,
+      360.96,
+      361.19,
+      361.13,
+      360.91,
+      361.16,
+      361.21,
+      361.21,
+      361.09
+    ],
+    "snipedCount": 37,
+    "history": [
+      {
+        "kind": "scan",
+        "value": 0.16,
+        "time": 1761131472675
+      },
+      {
+        "kind": "scan",
+        "value": 0.6,
+        "time": 1761131474676
+      },
+      {
+        "kind": "snip",
+        "value": 20.82,
+        "time": 1761131476678,
+        "meta": {
+          "token": "TKLJ",
+          "name": "AstroPup",
+          "price": 0.356228,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -7.76,
+        "time": 1761131478679,
+        "meta": {
+          "token": "TKR1",
+          "name": "MogChain",
+          "price": 0.661538,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.84,
+        "time": 1761131480681,
+        "meta": {
+          "token": "TK8V",
+          "name": "StellarJay",
+          "price": 0.523982,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 16.21,
+        "time": 1761131486685,
+        "meta": {
+          "token": "TKIT",
+          "name": "Aetherius",
+          "price": 0.591476,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 17.64,
+        "time": 1761131488687,
+        "meta": {
+          "token": "TKFE",
+          "name": "TerraM",
+          "price": 0.529847,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -5.31,
+        "time": 1761131490689,
+        "meta": {
+          "token": "TKXW",
+          "name": "Quasar",
+          "price": 0.120501,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -4.71,
+        "time": 1761131496694,
+        "meta": {
+          "token": "TKU8",
+          "name": "LunarCrest",
+          "price": 0.771278,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 13.16,
+        "time": 1761131498696,
+        "meta": {
+          "token": "TKAM",
+          "name": "ApexToken",
+          "price": 0.764343,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 4.32,
+        "time": 1761131502701,
+        "meta": {
+          "token": "TKRS",
+          "name": "Pulsar",
+          "price": 0.541957,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.95,
+        "time": 1761131506704,
+        "meta": {
+          "token": "TKJ6",
+          "name": "TerraM",
+          "price": 0.549754,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 12.98,
+        "time": 1761131522719,
+        "meta": {
+          "token": "TK5C",
+          "name": "BytePup",
+          "price": 0.392326,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 7.13,
+        "time": 1761131526721,
+        "meta": {
+          "token": "TK4V",
+          "name": "WarpCoin",
+          "price": 0.547548,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "scan",
+        "value": 1.03,
+        "time": 1761131530725
+      },
+      {
+        "kind": "snip",
+        "value": 62.27,
+        "time": 1761131534728,
+        "meta": {
+          "token": "TKKF",
+          "name": "PepeGrow",
+          "price": 0.27013,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 9.17,
+        "time": 1761131536729,
+        "meta": {
+          "token": "TKJO",
+          "name": "QuantumLeap",
+          "price": 0.472786,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.62,
+        "time": 1761131538730,
+        "meta": {
+          "token": "TKY6",
+          "name": "MemeLord",
+          "price": 0.527385,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -22.78,
+        "time": 1761131540732,
+        "meta": {
+          "token": "TK0G",
+          "name": "Velocity",
+          "price": 0.557902,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "scan",
+        "value": 0.75,
+        "time": 1761131542734
+      },
+      {
+        "kind": "snip",
+        "value": 6.6,
+        "time": 1761131556746,
+        "meta": {
+          "token": "TKC0",
+          "name": "LunarCrest",
+          "price": 0.8102,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.69,
+        "time": 1761131572756,
+        "meta": {
+          "token": "TKVN",
+          "name": "TerraM",
+          "price": 0.078361,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -16.93,
+        "time": 1761132514698,
+        "meta": {
+          "token": "TKLM",
+          "name": "GigaChadCoin",
+          "mint": "FAKE_MINT_id_bi3hkg2",
+          "price": 0.568008,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 8.94,
+        "time": 1761132516699,
+        "meta": {
+          "token": "TKC3",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_it62xmm",
+          "price": 0.595365,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 98.76,
+        "time": 1761132518701,
+        "meta": {
+          "token": "TKXH",
+          "name": "Yotta",
+          "mint": "FAKE_MINT_id_obina8v",
+          "price": 0.58374,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761132520703,
+        "meta": {
+          "text": "Rug pull on TKRB! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -13.8,
+        "time": 1761132520703,
+        "meta": {
+          "token": "TKRB",
+          "name": "RiftCoin",
+          "mint": "FAKE_MINT_id_qhy9iy1",
+          "price": 0.355721,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 43.28,
+        "time": 1761132522704,
+        "meta": {
+          "token": "TK2A",
+          "name": "Grok Inu",
+          "mint": "FAKE_MINT_id_or2sb0j",
+          "price": 0.480699,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.3,
+        "time": 1761132524754,
+        "meta": {
+          "token": "TK4W",
+          "name": "Velocity",
+          "mint": "FAKE_MINT_id_ygy68l5",
+          "price": 0.055036,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.67,
+        "time": 1761132532759,
+        "meta": {
+          "token": "TK3Y",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_ogjyl8t",
+          "price": 0.698905,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -12.06,
+        "time": 1761132536762,
+        "meta": {
+          "token": "TK7Q",
+          "name": "RiftCoin",
+          "mint": "FAKE_MINT_id_zb7ppto",
+          "price": 0.138625,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -9.14,
+        "time": 1761132540767,
+        "meta": {
+          "token": "TKJ8",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_4xqcsbc",
+          "price": 0.211355,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -3.9,
+        "time": 1761132542769,
+        "meta": {
+          "token": "TKCI",
+          "name": "QuantumLeap",
+          "mint": "FAKE_MINT_id_4mqcxzd",
+          "price": 0.054171,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761132544771,
+        "meta": {
+          "text": "Rug pull on TKR4! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -19.45,
+        "time": 1761132544771,
+        "meta": {
+          "token": "TKR4",
+          "name": "GigaChadCoin",
+          "mint": "FAKE_MINT_id_ceidr8t",
+          "price": 0.531829,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761132546772,
+        "meta": {
+          "text": "Rug pull on TK4W! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -18.96,
+        "time": 1761132546772,
+        "meta": {
+          "token": "TK4W",
+          "name": "Pulsar",
+          "mint": "FAKE_MINT_id_bnn7jwo",
+          "price": 0.529713,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 11.9,
+        "time": 1761132550775,
+        "meta": {
+          "token": "TKS8",
+          "name": "Zenith",
+          "mint": "FAKE_MINT_id_d97cj0x",
+          "price": 0.510661,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -22.3,
+        "time": 1761132552776,
+        "meta": {
+          "token": "TK9E",
+          "name": "MogChain",
+          "mint": "FAKE_MINT_id_i1y120p",
+          "price": 0.733401,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.76,
+        "time": 1761132556779,
+        "meta": {
+          "token": "TKJC",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_5srzd0g",
+          "price": 0.711476,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 38.85,
+        "time": 1761132562785,
+        "meta": {
+          "token": "TKTI",
+          "name": "Yotta",
+          "mint": "FAKE_MINT_id_nkvmyby",
+          "price": 0.588843,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -4.87,
+        "time": 1761132564787,
+        "meta": {
+          "token": "TKFD",
+          "name": "PepeGrow",
+          "mint": "FAKE_MINT_id_uhnz79f",
+          "price": 0.807035,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 4.13,
+        "time": 1761132570796,
+        "meta": {
+          "token": "TKIC",
+          "name": "TurboFrog",
+          "mint": "FAKE_MINT_id_c77mtud",
+          "price": 0.775545,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 54.68,
+        "time": 1761132574799,
+        "meta": {
+          "token": "TKKW",
+          "name": "Velocity",
+          "mint": "FAKE_MINT_id_8bivwaq",
+          "price": 0.108,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133299530
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133315541
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133321546
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133335557
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133405503
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133409545
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133427591
+      }
+    ],
+    "lastBought": null,
+    "stoppedAt": 1761133429228,
+    "settings": {
+      "snipingSpeed": "normal",
+      "autoSell": {
+        "enabled": false,
+        "profitPct": 20,
+        "stopLossPct": 10
+      },
+      "notificationVolume": "normal"
+    },
+    "watchlist": [],
+    "alerts": [],
+    "scheduledSnipes": [],
+    "awaitingWithdrawNetwork": false,
+    "withdrawNetwork": null,
+    "awaitingWithdrawCoin": false,
+    "withdrawCoin": null,
+    "awaitingWithdrawAmount": false,
+    "awaitingDepositNetwork": false,
+    "depositNetwork": null,
+    "awaitingDepositCoin": false,
+    "depositCoin": null,
+    "awaitingDepositAmount": false,
+    "_lastGas": 21,
+    "_engineCpu": 54,
+    "_engineMem": 90,
+    "copyTrading": {
+      "enabled": false,
+      "whaleAddress": null,
+      "buyAmountMode": "fixed",
+      "buyAmountFixed": 20,
+      "buyAmountPercent": 1,
+      "sellOnWhaleSell": true,
+      "slippage": 3,
+      "minWhaleTxValue": 500,
+      "portfolio": {},
+      "statusMessageId": null
+    }
+  },
+  "5022874143": {
+    "isLicensed": true,
+    "wallet": null,
+    "awaitingTokenAddress": false,
+    "pendingToken": "ejhiqhei12893123121",
+    "running": false,
+    "startAt": 1761339611168,
+    "statusMessageId": 369,
+    "funds": 611.23,
+    "initialFunds": 73.2,
+    "fundsHistory": [
+      534.45,
+      534.21,
+      585.12,
+      587.71,
+      587.86,
+      588.02,
+      584.54,
+      584.55,
+      584.55,
+      572.38,
+      579.46,
+      572.9,
+      573.05,
+      573.13,
+      573.19,
+      573.07,
+      573.09,
+      565.54,
+      565.6,
+      558.06,
+      562.98,
+      568.99,
+      566.65,
+      572.45,
+      572.25,
+      572.13,
+      572.02,
+      554.65,
+      554.53,
+      564.48,
+      564.26,
+      564.4,
+      564.48,
+      564.44,
+      564.3,
+      564.5,
+      566.63,
+      566.47,
+      566.45,
+      566.27,
+      574.13,
+      577.14,
+      580.84,
+      580.63,
+      580.49,
+      575.84,
+      575.86,
+      575.84,
+      581.85,
+      581.9,
+      582.14,
+      582.27,
+      582.45,
+      582.3,
+      585.79,
+      585.57,
+      586.88,
+      594.65,
+      611.32,
+      611.23
+    ],
+    "snipedCount": 194,
+    "history": [
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133481650
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133505424
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133507426
+      },
+      {
+        "kind": "scan",
+        "value": 0,
+        "time": 1761133525440
+      },
+      {
+        "kind": "snip",
+        "value": -14.14,
+        "time": 1761133553488,
+        "meta": {
+          "token": "TK8Q",
+          "name": "MogChain",
+          "mint": "FAKE_MINT_id_ru7iq20",
+          "price": 0.708351,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -17.44,
+        "time": 1761133557490,
+        "meta": {
+          "token": "TKR1",
+          "name": "Pulsar",
+          "mint": "FAKE_MINT_id_3rnr42x",
+          "price": 0.238514,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 16.37,
+        "time": 1761133559491,
+        "meta": {
+          "token": "TKHP",
+          "name": "ShibaMax",
+          "mint": "FAKE_MINT_id_3imcfkb",
+          "price": 0.094568,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -6.63,
+        "time": 1761133627931,
+        "meta": {
+          "token": "TKCQ",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_9nlzgj8",
+          "price": 0.719097,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -6.51,
+        "time": 1761133629932,
+        "meta": {
+          "token": "TKK8",
+          "name": "ApexToken",
+          "mint": "FAKE_MINT_id_0eb4qhs",
+          "price": 0.162825,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 13.02,
+        "time": 1761133631934,
+        "meta": {
+          "token": "TK8N",
+          "name": "PixelCat",
+          "mint": "FAKE_MINT_id_mcjjn61",
+          "price": 0.342445,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -7.66,
+        "time": 1761133633936,
+        "meta": {
+          "token": "TKDG",
+          "name": "StellarJay",
+          "mint": "FAKE_MINT_id_8666wwf",
+          "price": 0.523935,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.44,
+        "time": 1761133637938,
+        "meta": {
+          "token": "TKWH",
+          "name": "Solstice",
+          "mint": "FAKE_MINT_id_36nw9vk",
+          "price": 0.341162,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.93,
+        "time": 1761133643943,
+        "meta": {
+          "token": "TKVY",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_0lgaj9l",
+          "price": 0.808372,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 6.57,
+        "time": 1761133651948,
+        "meta": {
+          "token": "TKLF",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_tl61rbf",
+          "price": 0.735745,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.89,
+        "time": 1761133657951,
+        "meta": {
+          "token": "TKKD",
+          "name": "Zenith",
+          "mint": "FAKE_MINT_id_15a0h16",
+          "price": 0.457943,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -15.36,
+        "time": 1761133659952,
+        "meta": {
+          "token": "TKFM",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_y1kpqzo",
+          "price": 0.613134,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 14.5,
+        "time": 1761133671962,
+        "meta": {
+          "token": "TK2T",
+          "name": "PixelCat",
+          "mint": "FAKE_MINT_id_2rjr2ya",
+          "price": 0.145122,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 21.36,
+        "time": 1761133673964,
+        "meta": {
+          "token": "TKWQ",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_w08ujsw",
+          "price": 0.6203,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.5,
+        "time": 1761133681969,
+        "meta": {
+          "token": "TKUB",
+          "name": "Quasar",
+          "mint": "FAKE_MINT_id_0xf9q1s",
+          "price": 0.050197,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.21,
+        "time": 1761133683971,
+        "meta": {
+          "token": "TKI2",
+          "name": "TurboFrog",
+          "mint": "FAKE_MINT_id_z17hwl9",
+          "price": 0.450986,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 6.93,
+        "time": 1761133685973,
+        "meta": {
+          "token": "TKWB",
+          "name": "StellarJay",
+          "mint": "FAKE_MINT_id_2su5zu2",
+          "price": 0.743671,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 20.47,
+        "time": 1761133689974,
+        "meta": {
+          "token": "TKA6",
+          "name": "Quasar",
+          "mint": "FAKE_MINT_id_0qtu84t",
+          "price": 0.308986,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -2.87,
+        "time": 1761133693978,
+        "meta": {
+          "token": "TKNR",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_fm3jqbr",
+          "price": 0.816857,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -18.41,
+        "time": 1761133695979,
+        "meta": {
+          "token": "TKHO",
+          "name": "Solstice",
+          "mint": "FAKE_MINT_id_6pkgkm3",
+          "price": 0.304898,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -5.19,
+        "time": 1761133697979,
+        "meta": {
+          "token": "TK7C",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_sezknj6",
+          "price": 0.571662,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 90.5,
+        "time": 1761133699981,
+        "meta": {
+          "token": "TKUW",
+          "name": "AstroPup",
+          "mint": "FAKE_MINT_id_na73sfs",
+          "price": 0.733769,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.55,
+        "time": 1761133707989,
+        "meta": {
+          "token": "TKPQ",
+          "name": "Solstice",
+          "mint": "FAKE_MINT_id_smoq4b1",
+          "price": 0.221008,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.12,
+        "time": 1761133709992,
+        "meta": {
+          "token": "TK6P",
+          "name": "Pulsar",
+          "mint": "FAKE_MINT_id_0nzhkdr",
+          "price": 0.675188,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -9.94,
+        "time": 1761133722001,
+        "meta": {
+          "token": "TKBM",
+          "name": "DogeZilla",
+          "mint": "FAKE_MINT_id_7chv00x",
+          "price": 0.342655,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -1.76,
+        "time": 1761133730007,
+        "meta": {
+          "token": "TKPH",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_ddzrrh2",
+          "price": 0.064437,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -15.83,
+        "time": 1761133734011,
+        "meta": {
+          "token": "TKCP",
+          "name": "TerraM",
+          "mint": "FAKE_MINT_id_6g7cbn0",
+          "price": 0.705063,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 14.25,
+        "time": 1761133736012,
+        "meta": {
+          "token": "TKHL",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_ve75jf2",
+          "price": 0.738999,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 6.83,
+        "time": 1761133738013,
+        "meta": {
+          "token": "TKAD",
+          "name": "TurboFrog",
+          "mint": "FAKE_MINT_id_n38uhs4",
+          "price": 0.293249,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 6.07,
+        "time": 1761133740015,
+        "meta": {
+          "token": "TKQT",
+          "name": "PepeGrow",
+          "mint": "FAKE_MINT_id_9rz8jsu",
+          "price": 0.565858,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -10.57,
+        "time": 1761133746023,
+        "meta": {
+          "token": "TKSB",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_1x00ca1",
+          "price": 0.46369,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -14.4,
+        "time": 1761133754028,
+        "meta": {
+          "token": "TK2D",
+          "name": "PixelCat",
+          "mint": "FAKE_MINT_id_2gw17qq",
+          "price": 0.495304,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -12.65,
+        "time": 1761133758030,
+        "meta": {
+          "token": "TK7Y",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_uek81ke",
+          "price": 0.767585,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -10.69,
+        "time": 1761133760032,
+        "meta": {
+          "token": "TKGQ",
+          "name": "ApexToken",
+          "mint": "FAKE_MINT_id_z0m2gdc",
+          "price": 0.142193,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -4.13,
+        "time": 1761133762034,
+        "meta": {
+          "token": "TKYB",
+          "name": "Velocity",
+          "mint": "FAKE_MINT_id_27r4jlk",
+          "price": 0.19188,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 8.78,
+        "time": 1761133778048,
+        "meta": {
+          "token": "TKSF",
+          "name": "GigaChadCoin",
+          "mint": "FAKE_MINT_id_poown5c",
+          "price": 0.675676,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -16.67,
+        "time": 1761133780049,
+        "meta": {
+          "token": "TKRL",
+          "name": "ZetaChain",
+          "mint": "FAKE_MINT_id_zlyj0qc",
+          "price": 0.654402,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 7.37,
+        "time": 1761133784053,
+        "meta": {
+          "token": "TKZ6",
+          "name": "Yotta",
+          "mint": "FAKE_MINT_id_yu9jdxm",
+          "price": 0.456981,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -3.25,
+        "time": 1761133786055,
+        "meta": {
+          "token": "TK8T",
+          "name": "ZetaChain",
+          "mint": "FAKE_MINT_id_d01mdy4",
+          "price": 0.734096,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.28,
+        "time": 1761133788056,
+        "meta": {
+          "token": "TKC4",
+          "name": "QuantumLeap",
+          "mint": "FAKE_MINT_id_t1enjv7",
+          "price": 0.446658,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 12.04,
+        "time": 1761133790058,
+        "meta": {
+          "token": "TKU7",
+          "name": "Grok Inu",
+          "mint": "FAKE_MINT_id_g7je5t0",
+          "price": 0.266398,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -17.57,
+        "time": 1761133792059,
+        "meta": {
+          "token": "TKNS",
+          "name": "DogeZilla",
+          "mint": "FAKE_MINT_id_0w376xi",
+          "price": 0.670062,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -18.05,
+        "time": 1761133794061,
+        "meta": {
+          "token": "TK1Z",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_0fch3vv",
+          "price": 0.462484,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 8.25,
+        "time": 1761133798065,
+        "meta": {
+          "token": "TKWP",
+          "name": "PepeGrow",
+          "mint": "FAKE_MINT_id_fjtcr23",
+          "price": 0.428691,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 20.57,
+        "time": 1761133806069,
+        "meta": {
+          "token": "TKOZ",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_lripfu6",
+          "price": 0.327945,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -2.8,
+        "time": 1761133808071,
+        "meta": {
+          "token": "TKIW",
+          "name": "WarpCoin",
+          "mint": "FAKE_MINT_id_eyrz14w",
+          "price": 0.199095,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 72.42,
+        "time": 1761133810073,
+        "meta": {
+          "token": "TKOW",
+          "name": "NexusCoin",
+          "mint": "FAKE_MINT_id_145p8mm",
+          "price": 0.538213,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.61,
+        "time": 1761133820080,
+        "meta": {
+          "token": "TKD0",
+          "name": "DogeZilla",
+          "mint": "FAKE_MINT_id_9h5nn8e",
+          "price": 0.168367,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 10.74,
+        "time": 1761133824083,
+        "meta": {
+          "token": "TKPR",
+          "name": "BytePup",
+          "mint": "FAKE_MINT_id_iurq81c",
+          "price": 0.343116,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761133828085,
+        "meta": {
+          "text": "Rug pull on TKP5! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -31.09,
+        "time": 1761133828085,
+        "meta": {
+          "token": "TKP5",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_ctle799",
+          "price": 0.120778,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 41.1,
+        "time": 1761133834096,
+        "meta": {
+          "token": "TKQ6",
+          "name": "MogChain",
+          "mint": "FAKE_MINT_id_d7n6tt6",
+          "price": 0.231337,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -7.87,
+        "time": 1761133844102,
+        "meta": {
+          "token": "TKV2",
+          "name": "BytePup",
+          "mint": "FAKE_MINT_id_7oc5oqa",
+          "price": 0.127666,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 16.47,
+        "time": 1761133848104,
+        "meta": {
+          "token": "TKMH",
+          "name": "ApexToken",
+          "mint": "FAKE_MINT_id_rqhe9n6",
+          "price": 0.206569,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -7.68,
+        "time": 1761133850105,
+        "meta": {
+          "token": "TK8O",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_57e7ldi",
+          "price": 0.176843,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 27.57,
+        "time": 1761133852107,
+        "meta": {
+          "token": "TKY2",
+          "name": "Serenity",
+          "mint": "FAKE_MINT_id_6dks9zf",
+          "price": 0.194759,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 9.9,
+        "time": 1761133858110,
+        "meta": {
+          "token": "TKMD",
+          "name": "Zenith",
+          "mint": "FAKE_MINT_id_ul8ohs9",
+          "price": 0.058009,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 14.44,
+        "time": 1761133862113,
+        "meta": {
+          "token": "TK5Z",
+          "name": "AstroPup",
+          "mint": "FAKE_MINT_id_q8g4wlo",
+          "price": 0.640779,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 10.13,
+        "time": 1761133866116,
+        "meta": {
+          "token": "TK1Z",
+          "name": "MogChain",
+          "mint": "FAKE_MINT_id_28iyzq2",
+          "price": 0.548824,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -5.4,
+        "time": 1761133868118,
+        "meta": {
+          "token": "TKPF",
+          "name": "ApexToken",
+          "mint": "FAKE_MINT_id_4k3acbq",
+          "price": 0.414148,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 17.71,
+        "time": 1761133872122,
+        "meta": {
+          "token": "TKKU",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_qdw14am",
+          "price": 0.630398,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 11.29,
+        "time": 1761133874124,
+        "meta": {
+          "token": "TKGK",
+          "name": "PepeGrow",
+          "mint": "FAKE_MINT_id_h1p7xxg",
+          "price": 0.600784,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 30.12,
+        "time": 1761133888135,
+        "meta": {
+          "token": "TKRY",
+          "name": "ShibaMax",
+          "mint": "FAKE_MINT_id_warbmuy",
+          "price": 0.54827,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -15.9,
+        "time": 1761133894137,
+        "meta": {
+          "token": "TKE0",
+          "name": "RiftCoin",
+          "mint": "FAKE_MINT_id_1tdqsfr",
+          "price": 0.383172,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761133896138,
+        "meta": {
+          "text": "Rug pull on TKV2! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -6.21,
+        "time": 1761133896138,
+        "meta": {
+          "token": "TKV2",
+          "name": "Quasar",
+          "mint": "FAKE_MINT_id_se2xore",
+          "price": 0.779934,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -20.32,
+        "time": 1761133898140,
+        "meta": {
+          "token": "TK6R",
+          "name": "ShibaMax",
+          "mint": "FAKE_MINT_id_46naf9h",
+          "price": 0.570706,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -4.59,
+        "time": 1761133902143,
+        "meta": {
+          "token": "TKA4",
+          "name": "WarpCoin",
+          "mint": "FAKE_MINT_id_uz3w2kg",
+          "price": 0.661711,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 8.22,
+        "time": 1761133912151,
+        "meta": {
+          "token": "TKTS",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_3i17f3a",
+          "price": 0.784615,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 7.08,
+        "time": 1761133918154,
+        "meta": {
+          "token": "TKWF",
+          "name": "ShibaMax",
+          "mint": "FAKE_MINT_id_8h81v62",
+          "price": 0.024512,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -16.44,
+        "time": 1761133922158,
+        "meta": {
+          "token": "TK5J",
+          "name": "Solstice",
+          "mint": "FAKE_MINT_id_z2vzvvd",
+          "price": 0.612484,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 22.23,
+        "time": 1761133926162,
+        "meta": {
+          "token": "TKT0",
+          "name": "Solstice",
+          "mint": "FAKE_MINT_id_fgfzuxl",
+          "price": 0.219584,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761133930166,
+        "meta": {
+          "text": "Rug pull on TKSH! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -15.27,
+        "time": 1761133930166,
+        "meta": {
+          "token": "TKSH",
+          "name": "PepeGrow",
+          "mint": "FAKE_MINT_id_t5dq5cs",
+          "price": 0.294863,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -3.15,
+        "time": 1761133932167,
+        "meta": {
+          "token": "TKR9",
+          "name": "Zenith",
+          "mint": "FAKE_MINT_id_8n3m63p",
+          "price": 0.189068,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -9.9,
+        "time": 1761133942174,
+        "meta": {
+          "token": "TKO0",
+          "name": "Pulsar",
+          "mint": "FAKE_MINT_id_m2y3ieq",
+          "price": 0.225961,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 9.05,
+        "time": 1761133944176,
+        "meta": {
+          "token": "TKXA",
+          "name": "Pulsar",
+          "mint": "FAKE_MINT_id_n0mtt8u",
+          "price": 0.163054,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -3.24,
+        "time": 1761133948179,
+        "meta": {
+          "token": "TK27",
+          "name": "AstroPup",
+          "mint": "FAKE_MINT_id_afzpxzi",
+          "price": 0.34024,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 14.2,
+        "time": 1761133950181,
+        "meta": {
+          "token": "TKNO",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_utvitw9",
+          "price": 0.236778,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 10.55,
+        "time": 1761133954188,
+        "meta": {
+          "token": "TKDF",
+          "name": "Velocity",
+          "mint": "FAKE_MINT_id_nzak8sz",
+          "price": 0.340825,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 8.23,
+        "time": 1761133962193,
+        "meta": {
+          "token": "TK3Q",
+          "name": "ZetaChain",
+          "mint": "FAKE_MINT_id_utf0a5q",
+          "price": 0.225383,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 6.58,
+        "time": 1761133964194,
+        "meta": {
+          "token": "TK2A",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_rmiozsb",
+          "price": 0.741109,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -7.49,
+        "time": 1761133978202,
+        "meta": {
+          "token": "TKUF",
+          "name": "SolanaGator",
+          "mint": "FAKE_MINT_id_bpsi28b",
+          "price": 0.215334,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 16.09,
+        "time": 1761133996220,
+        "meta": {
+          "token": "TKDO",
+          "name": "Zenith",
+          "mint": "FAKE_MINT_id_b1z8v7n",
+          "price": 0.696873,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 12.01,
+        "time": 1761134008226,
+        "meta": {
+          "token": "TKM0",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_9z7xh36",
+          "price": 0.466422,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 48.74,
+        "time": 1761134010227,
+        "meta": {
+          "token": "TKMA",
+          "name": "GigaChadCoin",
+          "mint": "FAKE_MINT_id_tzdrhn9",
+          "price": 0.691256,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.12,
+        "time": 1761134012228,
+        "meta": {
+          "token": "TKTN",
+          "name": "NexusCoin",
+          "mint": "FAKE_MINT_id_u5bh3ia",
+          "price": 0.43839,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 10.34,
+        "time": 1761134020232,
+        "meta": {
+          "token": "TKZO",
+          "name": "TerraM",
+          "mint": "FAKE_MINT_id_557rq8q",
+          "price": 0.527892,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 22.27,
+        "time": 1761134022237,
+        "meta": {
+          "token": "TKDO",
+          "name": "Grok Inu",
+          "mint": "FAKE_MINT_id_wlnsu0b",
+          "price": 0.417174,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.04,
+        "time": 1761134024238,
+        "meta": {
+          "token": "TK8M",
+          "name": "ZetaChain",
+          "mint": "FAKE_MINT_id_0g9eedg",
+          "price": 0.557348,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -12.44,
+        "time": 1761134026240,
+        "meta": {
+          "token": "TK1N",
+          "name": "QuantumLeap",
+          "mint": "FAKE_MINT_id_o3sy32r",
+          "price": 0.316003,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 19.26,
+        "time": 1761134036246,
+        "meta": {
+          "token": "TKBE",
+          "name": "ZetaChain",
+          "mint": "FAKE_MINT_id_ggfra05",
+          "price": 0.423088,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 14.52,
+        "time": 1761134038246,
+        "meta": {
+          "token": "TKQ2",
+          "name": "Velocity",
+          "mint": "FAKE_MINT_id_3ugtzg3",
+          "price": 0.443861,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 9.37,
+        "time": 1761134042247,
+        "meta": {
+          "token": "TKF5",
+          "name": "StellarJay",
+          "mint": "FAKE_MINT_id_5vuiofq",
+          "price": 0.172332,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 13.2,
+        "time": 1761134046251,
+        "meta": {
+          "token": "TKVV",
+          "name": "ShibaMax",
+          "mint": "FAKE_MINT_id_bgc2d85",
+          "price": 0.641753,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.15,
+        "time": 1761134048254,
+        "meta": {
+          "token": "TKRU",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_v7xcxl2",
+          "price": 0.690325,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 12.64,
+        "time": 1761134052258,
+        "meta": {
+          "token": "TKTQ",
+          "name": "Solstice",
+          "mint": "FAKE_MINT_id_3eegd13",
+          "price": 0.037288,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.23,
+        "time": 1761134054260,
+        "meta": {
+          "token": "TKE0",
+          "name": "GigaChadCoin",
+          "mint": "FAKE_MINT_id_i745war",
+          "price": 0.337382,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 8.48,
+        "time": 1761134056261,
+        "meta": {
+          "token": "TK8A",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_t6kan61",
+          "price": 0.673383,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.76,
+        "time": 1761134058261,
+        "meta": {
+          "token": "TKOQ",
+          "name": "QuantumLeap",
+          "mint": "FAKE_MINT_id_u1cwg3h",
+          "price": 0.16428,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 70.11,
+        "time": 1761134064265,
+        "meta": {
+          "token": "TKUS",
+          "name": "Grok Inu",
+          "mint": "FAKE_MINT_id_4gvq8ax",
+          "price": 0.495867,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 9.35,
+        "time": 1761134066266,
+        "meta": {
+          "token": "TKPM",
+          "name": "Zenith",
+          "mint": "FAKE_MINT_id_n1wr6cz",
+          "price": 0.677481,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 7.73,
+        "time": 1761134068268,
+        "meta": {
+          "token": "TKHW",
+          "name": "Quasar",
+          "mint": "FAKE_MINT_id_afsqi52",
+          "price": 0.730065,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 11.03,
+        "time": 1761134070270,
+        "meta": {
+          "token": "TKX4",
+          "name": "StellarJay",
+          "mint": "FAKE_MINT_id_kgn0ft1",
+          "price": 0.638218,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -13.3,
+        "time": 1761134072272,
+        "meta": {
+          "token": "TKIC",
+          "name": "LunarCrest",
+          "mint": "FAKE_MINT_id_9f4qdz3",
+          "price": 0.30252,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -6.33,
+        "time": 1761134078275,
+        "meta": {
+          "token": "TKTE",
+          "name": "PixelCat",
+          "mint": "FAKE_MINT_id_tatsx2o",
+          "price": 0.065524,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -14.09,
+        "time": 1761134088283,
+        "meta": {
+          "token": "TK4I",
+          "name": "QuantumLeap",
+          "mint": "FAKE_MINT_id_w3kr4un",
+          "price": 0.103692,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -8.29,
+        "time": 1761134090284,
+        "meta": {
+          "token": "TK4V",
+          "name": "WarpCoin",
+          "mint": "FAKE_MINT_id_ag5d4kd",
+          "price": 0.584979,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 11.04,
+        "time": 1761134100293,
+        "meta": {
+          "token": "TKVE",
+          "name": "DogeZilla",
+          "mint": "FAKE_MINT_id_ez5nue0",
+          "price": 0.352869,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -10.2,
+        "time": 1761134106296,
+        "meta": {
+          "token": "TKMX",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_qpph7zr",
+          "price": 0.020025,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -11.8,
+        "time": 1761134110299,
+        "meta": {
+          "token": "TKHH",
+          "name": "Grok Inu",
+          "mint": "FAKE_MINT_id_il08p6w",
+          "price": 0.544173,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 19.67,
+        "time": 1761134116305,
+        "meta": {
+          "token": "TK3K",
+          "name": "NexusCoin",
+          "mint": "FAKE_MINT_id_31bnw1t",
+          "price": 0.39392,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -4.57,
+        "time": 1761134118307,
+        "meta": {
+          "token": "TKJ9",
+          "name": "RiftCoin",
+          "mint": "FAKE_MINT_id_fym0s9d",
+          "price": 0.32552,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761134134318,
+        "meta": {
+          "text": "Rug pull on TKHH! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -15.99,
+        "time": 1761134134318,
+        "meta": {
+          "token": "TKHH",
+          "name": "TerraM",
+          "mint": "FAKE_MINT_id_4776be0",
+          "price": 0.794046,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -6.97,
+        "time": 1761134136320,
+        "meta": {
+          "token": "TKX1",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_wnb2gl4",
+          "price": 0.477881,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.16,
+        "time": 1761134138322,
+        "meta": {
+          "token": "TK0N",
+          "name": "TerraM",
+          "mint": "FAKE_MINT_id_1b4s7rz",
+          "price": 0.814206,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 11.89,
+        "time": 1761134140324,
+        "meta": {
+          "token": "TK83",
+          "name": "ApexToken",
+          "mint": "FAKE_MINT_id_gmhsxkk",
+          "price": 0.182527,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761134148331,
+        "meta": {
+          "text": "Rug pull on TKAC! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -32.5,
+        "time": 1761134148331,
+        "meta": {
+          "token": "TKAC",
+          "name": "SolanaGator",
+          "mint": "FAKE_MINT_id_esr2e8t",
+          "price": 0.695787,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -21.96,
+        "time": 1761134150331,
+        "meta": {
+          "token": "TKTR",
+          "name": "ApexToken",
+          "mint": "FAKE_MINT_id_kpt70gr",
+          "price": 0.488072,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.61,
+        "time": 1761134154336,
+        "meta": {
+          "token": "TKPR",
+          "name": "GigaChadCoin",
+          "mint": "FAKE_MINT_id_0c7p8y1",
+          "price": 0.337588,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 19.5,
+        "time": 1761134156336,
+        "meta": {
+          "token": "TK2B",
+          "name": "SolanaGator",
+          "mint": "FAKE_MINT_id_60ne1mo",
+          "price": 0.099386,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -4.59,
+        "time": 1761134162339,
+        "meta": {
+          "token": "TKRO",
+          "name": "Grok Inu",
+          "mint": "FAKE_MINT_id_9s5sdjh",
+          "price": 0.504912,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.02,
+        "time": 1761134168344,
+        "meta": {
+          "token": "TKIZ",
+          "name": "Aetherius",
+          "mint": "FAKE_MINT_id_cr88d9i",
+          "price": 0.625961,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -13.4,
+        "time": 1761134170344,
+        "meta": {
+          "token": "TKS6",
+          "name": "MogChain",
+          "mint": "FAKE_MINT_id_8sfldof",
+          "price": 0.644224,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 11.25,
+        "time": 1761134176347,
+        "meta": {
+          "token": "TKSJ",
+          "name": "NexusCoin",
+          "mint": "FAKE_MINT_id_lyr9tdj",
+          "price": 0.214991,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 54.06,
+        "time": 1761134178349,
+        "meta": {
+          "token": "TKWB",
+          "name": "OrbitCoin",
+          "mint": "FAKE_MINT_id_ky1rlyc",
+          "price": 0.155487,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 7.21,
+        "time": 1761134180350,
+        "meta": {
+          "token": "TK9I",
+          "name": "GigaChadCoin",
+          "mint": "FAKE_MINT_id_rt0gbnh",
+          "price": 0.733117,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -5.42,
+        "time": 1761208707647,
+        "meta": {
+          "token": "TKPV",
+          "name": "PepeGrow",
+          "mint": "FAKE_MINT_id_z4m59ps",
+          "price": 0.734887,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -4.25,
+        "time": 1761208719655,
+        "meta": {
+          "token": "TKQU",
+          "name": "TurboFrog",
+          "mint": "FAKE_MINT_id_v5lijth",
+          "price": 0.396084,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -3.8,
+        "time": 1761208721656,
+        "meta": {
+          "token": "TKPH",
+          "name": "QuantumLeap",
+          "mint": "FAKE_MINT_id_570c8d7",
+          "price": 0.242568,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 4.97,
+        "time": 1761208729664,
+        "meta": {
+          "token": "TKEN",
+          "name": "Pulsar",
+          "mint": "FAKE_MINT_id_qe4ryq9",
+          "price": 0.264178,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 19.24,
+        "time": 1761208733667,
+        "meta": {
+          "token": "TKVB",
+          "name": "StellarJay",
+          "mint": "FAKE_MINT_id_wkoph66",
+          "price": 0.261914,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 46.25,
+        "time": 1761208739672,
+        "meta": {
+          "token": "TK87",
+          "name": "Grok Inu",
+          "mint": "FAKE_MINT_id_2s12izn",
+          "price": 0.26765,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "withdraw",
+        "value": -100,
+        "time": 1761320089731,
+        "meta": {
+          "coin": "SOL",
+          "network": "sol",
+          "fee": 0.87
+        }
+      },
+      {
+        "kind": "withdraw",
+        "value": -100,
+        "time": 1761320143785,
+        "meta": {
+          "coin": "SOL",
+          "network": "sol",
+          "fee": 1.07
+        }
+      },
+      {
+        "kind": "withdraw",
+        "value": -200,
+        "time": 1761320729674,
+        "meta": {
+          "coin": "SOL",
+          "network": "sol",
+          "fee": 0.91,
+          "toAddress": "HDCk2peVVQt2AvUXFMDNjrrEN7g8fFVUKabfmRXqkxW7"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -7.69,
+        "time": 1761320911539,
+        "meta": {
+          "token": "TKY9",
+          "name": "ShibaMax",
+          "mint": "FAKE_MINT_id_zgl1ve2",
+          "price": 0.072273,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 29.41,
+        "time": 1761320913540,
+        "meta": {
+          "token": "TKW7",
+          "name": "Quasar",
+          "mint": "FAKE_MINT_id_rguibuc",
+          "price": 0.087003,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761320915539,
+        "meta": {
+          "text": "Rug pull on TKIP! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -12.37,
+        "time": 1761320915539,
+        "meta": {
+          "token": "TKIP",
+          "name": "MogChain",
+          "mint": "FAKE_MINT_id_0pz3e72",
+          "price": 0.75058,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761320917540,
+        "meta": {
+          "text": "Rug pull on TK31! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -19.99,
+        "time": 1761320917540,
+        "meta": {
+          "token": "TK31",
+          "name": "DogeZilla",
+          "mint": "FAKE_MINT_id_8wo2tic",
+          "price": 0.797809,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 9.1,
+        "time": 1761320919541,
+        "meta": {
+          "token": "TKYH",
+          "name": "ZetaChain",
+          "mint": "FAKE_MINT_id_g0n24pa",
+          "price": 0.670449,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 4.03,
+        "time": 1761320927547,
+        "meta": {
+          "token": "TK68",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_4hfkvf8",
+          "price": 0.373892,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 11.12,
+        "time": 1761320929547,
+        "meta": {
+          "token": "TKIQ",
+          "name": "MemeLord",
+          "mint": "FAKE_MINT_id_8t0y97e",
+          "price": 0.761484,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 39.87,
+        "time": 1761320933550,
+        "meta": {
+          "token": "TKID",
+          "name": "Yotta",
+          "mint": "FAKE_MINT_id_k6uhwm6",
+          "price": 0.232642,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.96,
+        "time": 1761320939554,
+        "meta": {
+          "token": "TKBJ",
+          "name": "TurboFrog",
+          "mint": "FAKE_MINT_id_931r0e0",
+          "price": 0.204603,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 82.02,
+        "time": 1761320941554,
+        "meta": {
+          "token": "TKQ7",
+          "name": "TurboFrog",
+          "mint": "FAKE_MINT_id_4ouvp9a",
+          "price": 0.42824,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -8.16,
+        "time": 1761320945556,
+        "meta": {
+          "token": "TKYP",
+          "name": "StellarJay",
+          "mint": "FAKE_MINT_id_808hk0x",
+          "price": 0.095183,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 21.18,
+        "time": 1761321642060,
+        "meta": {
+          "token": "TKV5",
+          "name": "El Primo",
+          "mint": "FAKE_MINT_id_7pfgsnp",
+          "price": 0.240448,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 11.32,
+        "time": 1761321644062,
+        "meta": {
+          "token": "TKK1",
+          "name": "Lirik Cat",
+          "mint": "FAKE_MINT_id_x09xcop",
+          "price": 0.487986,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.15,
+        "time": 1761321646064,
+        "meta": {
+          "token": "TKL5",
+          "name": "Kernel Labs",
+          "mint": "FAKE_MINT_id_wx4yehy",
+          "price": 0.644587,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 15.55,
+        "time": 1761321648064,
+        "meta": {
+          "token": "TK07",
+          "name": "Axel Rudakubana",
+          "mint": "FAKE_MINT_id_g3qb82w",
+          "price": 0.380736,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -6.69,
+        "time": 1761321652069,
+        "meta": {
+          "token": "TKA2",
+          "name": "holy shit",
+          "mint": "FAKE_MINT_id_prapan8",
+          "price": 0.341445,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -17.76,
+        "time": 1761321654069,
+        "meta": {
+          "token": "TKIG",
+          "name": "EL FARTCOIN",
+          "mint": "FAKE_MINT_id_gwn554s",
+          "price": 0.02651,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -11.81,
+        "time": 1761321658071,
+        "meta": {
+          "token": "TKRT",
+          "name": "HI RICO",
+          "mint": "FAKE_MINT_id_a14ku3d",
+          "price": 0.707536,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -15.31,
+        "time": 1761321662072,
+        "meta": {
+          "token": "TK1W",
+          "name": "Pong",
+          "mint": "FAKE_MINT_id_lsy1jz8",
+          "price": 0.75161,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 9.44,
+        "time": 1761321668076,
+        "meta": {
+          "token": "TKGS",
+          "name": "Solana Funded",
+          "mint": "FAKE_MINT_id_c3xgcrq",
+          "price": 0.253523,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 8.56,
+        "time": 1761321670076,
+        "meta": {
+          "token": "TKFN",
+          "name": "AlonAI.fun",
+          "mint": "FAKE_MINT_id_r761jft",
+          "price": 0.495643,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "buy",
+        "value": -50,
+        "time": 1761335365316,
+        "meta": {
+          "token": "EJHI",
+          "name": "el fido",
+          "price": 0.552501
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -15.46,
+        "time": 1761339104728,
+        "meta": {
+          "token": "TKVV",
+          "name": "Crashout Final Boss",
+          "mint": "FAKE_MINT_id_fzvaidp",
+          "price": 0.694898,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 16.9,
+        "time": 1761339108731,
+        "meta": {
+          "token": "TKWG",
+          "name": "EL TURO",
+          "mint": "FAKE_MINT_id_n9x076r",
+          "price": 0.4022,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 22.76,
+        "time": 1761339110733,
+        "meta": {
+          "token": "TKPM",
+          "name": "Kryme.ai",
+          "mint": "FAKE_MINT_id_9q7r7t4",
+          "price": 0.326071,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -22.61,
+        "time": 1761339120741,
+        "meta": {
+          "token": "TKQ6",
+          "name": "ZeroBro",
+          "mint": "FAKE_MINT_id_tfq2a01",
+          "price": 0.14546,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -17.49,
+        "time": 1761339122742,
+        "meta": {
+          "token": "TKES",
+          "name": "Skyler Crispy",
+          "mint": "FAKE_MINT_id_ov7r3ec",
+          "price": 0.424605,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.49,
+        "time": 1761339124744,
+        "meta": {
+          "token": "TK31",
+          "name": "PROMISED STREAMER LIVE",
+          "mint": "FAKE_MINT_id_chab7x3",
+          "price": 0.228566,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.22,
+        "time": 1761339128747,
+        "meta": {
+          "token": "TKXE",
+          "name": " AI Gaslighting",
+          "mint": "FAKE_MINT_id_aiwn9fb",
+          "price": 0.245109,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.75,
+        "time": 1761339134750,
+        "meta": {
+          "token": "TKIU",
+          "name": "Extremum",
+          "mint": "FAKE_MINT_id_66pfpnz",
+          "price": 0.8194,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 9.73,
+        "time": 1761339138753,
+        "meta": {
+          "token": "TKZV",
+          "name": "ok gl",
+          "mint": "FAKE_MINT_id_ey8kjl8",
+          "price": 0.361212,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 19.15,
+        "time": 1761339140753,
+        "meta": {
+          "token": "TK9Z",
+          "name": "Lorem Ipsum Coin",
+          "mint": "FAKE_MINT_id_7wnogt3",
+          "price": 0.607268,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -19.73,
+        "time": 1761339146757,
+        "meta": {
+          "token": "TKXA",
+          "name": "tuah67coin",
+          "mint": "FAKE_MINT_id_frgutmh",
+          "price": 0.208391,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -6.17,
+        "time": 1761339342077,
+        "meta": {
+          "token": "TKSR",
+          "name": "EL Risitas",
+          "mint": "FAKE_MINT_id_jdatqvd",
+          "price": 0.639634,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 126.27,
+        "time": 1761339346079,
+        "meta": {
+          "token": "TKFP",
+          "name": "Alfie Bull Adobe Mascot",
+          "mint": "FAKE_MINT_id_slsab3b",
+          "price": 0.787238,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "warning",
+        "value": 0,
+        "time": 1761339350081,
+        "meta": {
+          "text": "Rug pull on TK1N! Total loss."
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -13.09,
+        "time": 1761339350081,
+        "meta": {
+          "token": "TK1N",
+          "name": "minion",
+          "mint": "FAKE_MINT_id_9qlb1tb",
+          "price": 0.239148,
+          "isReal": false,
+          "outcome": "Rug Pull"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 14.49,
+        "time": 1761339354084,
+        "meta": {
+          "token": "TKG1",
+          "name": "tuah67coin",
+          "mint": "FAKE_MINT_id_eyyjiji",
+          "price": 0.314664,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.32,
+        "time": 1761339356085,
+        "meta": {
+          "token": "TKZY",
+          "name": "elpepe",
+          "mint": "FAKE_MINT_id_r13xbs7",
+          "price": 0.471374,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.94,
+        "time": 1761339358087,
+        "meta": {
+          "token": "TKY5",
+          "name": "Pre Rich",
+          "mint": "FAKE_MINT_id_sgt16ex",
+          "price": 0.59903,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 10.45,
+        "time": 1761339364091,
+        "meta": {
+          "token": "TK9X",
+          "name": "DualDex",
+          "mint": "FAKE_MINT_id_7kg0mxh",
+          "price": 0.763001,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 29.8,
+        "time": 1761339370095,
+        "meta": {
+          "token": "TK9I",
+          "name": "Bitbank",
+          "mint": "FAKE_MINT_id_8rfql13",
+          "price": 0.561861,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 50.83,
+        "time": 1761339376099,
+        "meta": {
+          "token": "TKJP",
+          "name": "Kokaine feen",
+          "mint": "FAKE_MINT_id_bfi8624",
+          "price": 0.260398,
+          "isReal": false,
+          "outcome": "Big Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 2.34,
+        "time": 1761339378101,
+        "meta": {
+          "token": "TK46",
+          "name": "this will never die",
+          "mint": "FAKE_MINT_id_466z1z1",
+          "price": 0.349344,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -3.42,
+        "time": 1761339384103,
+        "meta": {
+          "token": "TKY1",
+          "name": "Markets dead Send This",
+          "mint": "FAKE_MINT_id_dnranwq",
+          "price": 0.186674,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -12.24,
+        "time": 1761339613483,
+        "meta": {
+          "token": "TK3R",
+          "name": "Onlyfans Girls Index 6900",
+          "mint": "FAKE_MINT_id_mxnkpy8",
+          "price": 0.723315,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 7.05,
+        "time": 1761339615484,
+        "meta": {
+          "token": "TKUU",
+          "name": "SLEEP",
+          "mint": "FAKE_MINT_id_u3b6upg",
+          "price": 0.817561,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -6.6,
+        "time": 1761339617485,
+        "meta": {
+          "token": "TKPL",
+          "name": "676767",
+          "mint": "FAKE_MINT_id_4kyjrru",
+          "price": 0.117231,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -7.49,
+        "time": 1761339629495,
+        "meta": {
+          "token": "TKYW",
+          "name": "Kryme.ai",
+          "mint": "FAKE_MINT_id_2okjrn3",
+          "price": 0.23215,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -7.55,
+        "time": 1761339633496,
+        "meta": {
+          "token": "TK57",
+          "name": "ITS LARP RETARDS",
+          "mint": "FAKE_MINT_id_bgjrter",
+          "price": 0.80948,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.01,
+        "time": 1761339635496,
+        "meta": {
+          "token": "TK2Y",
+          "name": "COCK",
+          "mint": "FAKE_MINT_id_3nv6ktv",
+          "price": 0.158567,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 6.19,
+        "time": 1761339637498,
+        "meta": {
+          "token": "TKEA",
+          "name": "el farto",
+          "mint": "FAKE_MINT_id_f147sfu",
+          "price": 0.5388,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -2.35,
+        "time": 1761339639501,
+        "meta": {
+          "token": "TKAY",
+          "name": "Anti-Gay",
+          "mint": "FAKE_MINT_id_whwwq69",
+          "price": 0.661869,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.79,
+        "time": 1761339641501,
+        "meta": {
+          "token": "TK4E",
+          "name": "get a loan and buy this coin",
+          "mint": "FAKE_MINT_id_ie7h3xs",
+          "price": 0.76479,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -17.58,
+        "time": 1761339649508,
+        "meta": {
+          "token": "TKLH",
+          "name": "tuah67coin",
+          "mint": "FAKE_MINT_id_sfsoito",
+          "price": 0.206231,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 10.14,
+        "time": 1761339653510,
+        "meta": {
+          "token": "TKMN",
+          "name": "casino",
+          "mint": "FAKE_MINT_id_lxb36bl",
+          "price": 0.262613,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.98,
+        "time": 1761339667521,
+        "meta": {
+          "token": "TK7T",
+          "name": "casino",
+          "mint": "FAKE_MINT_id_l8m07k5",
+          "price": 0.511316,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 7.84,
+        "time": 1761339675529,
+        "meta": {
+          "token": "TKMP",
+          "name": "Kryme.ai",
+          "mint": "FAKE_MINT_id_fjynz91",
+          "price": 0.33523,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.19,
+        "time": 1761339677529,
+        "meta": {
+          "token": "TKJR",
+          "name": "PolyDex",
+          "mint": "FAKE_MINT_id_gwkn56g",
+          "price": 0.698756,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.66,
+        "time": 1761339679531,
+        "meta": {
+          "token": "TKBZ",
+          "name": "Pawblo Escobark",
+          "mint": "FAKE_MINT_id_znbi02n",
+          "price": 0.190639,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": -4.86,
+        "time": 1761339685535,
+        "meta": {
+          "token": "TKJM",
+          "name": "El Retardo",
+          "mint": "FAKE_MINT_id_9wopvfm",
+          "price": 0.065746,
+          "isReal": false,
+          "outcome": "Stop-Loss"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 5.92,
+        "time": 1761339691542,
+        "meta": {
+          "token": "TK0V",
+          "name": "%coin",
+          "mint": "FAKE_MINT_id_9xltjk6",
+          "price": 0.311309,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 3.7,
+        "time": 1761339703549,
+        "meta": {
+          "token": "TKDD",
+          "name": "covert coin",
+          "mint": "FAKE_MINT_id_lltway4",
+          "price": 0.790458,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 1.44,
+        "time": 1761339707553,
+        "meta": {
+          "token": "TKSA",
+          "name": "sixseven!",
+          "mint": "FAKE_MINT_id_vbpib02",
+          "price": 0.563417,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 7.9,
+        "time": 1761339709554,
+        "meta": {
+          "token": "TK1G",
+          "name": "SOLANA2",
+          "mint": "FAKE_MINT_id_z5ys1xw",
+          "price": 0.568192,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      },
+      {
+        "kind": "snip",
+        "value": 16.86,
+        "time": 1761339711556,
+        "meta": {
+          "token": "TKBM",
+          "name": "JUSTADOGGUY",
+          "mint": "FAKE_MINT_id_wiumyi6",
+          "price": 0.710919,
+          "isReal": false,
+          "outcome": "Win"
+        }
+      }
+    ],
+    "lastBought": {
+      "token": "EJHI",
+      "name": "el fido",
+      "amount": 50,
+      "received": 90.4976,
+      "pricePerToken": 0.552501,
+      "boughtAt": 1761335365316,
+      "slippage": "0.01",
+      "slDirection": "better"
+    },
+    "stoppedAt": 1761339715189,
+    "settings": {
+      "snipingSpeed": "normal",
+      "autoSell": {
+        "enabled": false,
+        "profitPct": 20,
+        "stopLossPct": 10
+      },
+      "notificationVolume": "normal"
+    },
+    "watchlist": [],
+    "alerts": [],
+    "scheduledSnipes": [],
+    "awaitingWithdrawNetwork": true,
+    "withdrawNetwork": null,
+    "awaitingWithdrawCoin": false,
+    "withdrawCoin": null,
+    "awaitingWithdrawAmount": false,
+    "awaitingDepositNetwork": true,
+    "depositNetwork": null,
+    "awaitingDepositCoin": false,
+    "depositCoin": null,
+    "awaitingDepositAmount": false,
+    "_lastGas": 70,
+    "_engineCpu": 58,
+    "_engineMem": 66,
+    "copyTrading": {
+      "enabled": false,
+      "whaleAddress": null,
+      "buyAmountMode": "fixed",
+      "buyAmountFixed": 20,
+      "buyAmountPercent": 1,
+      "sellOnWhaleSell": true,
+      "slippage": 3,
+      "minWhaleTxValue": 500,
+      "portfolio": {},
+      "statusMessageId": null
+    },
+    "awaitingWhaleAddress": false,
+    "awaitingPumpToken": false,
+    "pendingPumpToken": "jdao09238091230912",
+    "pendingPumpSettings": {
+      "wallets": 12,
+      "perWalletUSD": 20,
+      "mode": "Multi-wallet"
+    },
+    "pump_fixed": false,
+    "pumpRunning": false,
+    "pumpStartAt": 1761211468458,
+    "pumpToken": "jdaiowjdawi293u7192381293",
+    "pumpFake": {
+      "symbol": "JDAI",
+      "name": "MogChain",
+      "price": 0.206563
+    },
+    "pumpWallets": 12,
+    "pumpPerWallet": 20,
+    "pumpInitialMC": 32445,
+    "pumpCurrentMC": 40932,
+    "pumpInitialPrice": 0.206563,
+    "pumpCurrentPrice": 0.26060932,
+    "pumpWalletActivity": [
+      {
+        "type": "buy",
+        "wallet": 10,
+        "amount": 21.85,
+        "priceImpact": 0.65,
+        "time": 1761211491600
+      },
+      {
+        "type": "buy",
+        "wallet": 8,
+        "amount": 23.91,
+        "priceImpact": 2.44,
+        "time": 1761211490099
+      },
+      {
+        "type": "buy",
+        "wallet": 12,
+        "amount": 16.63,
+        "priceImpact": 1.68,
+        "time": 1761211488598
+      },
+      {
+        "type": "buy",
+        "wallet": 8,
+        "amount": 19.57,
+        "priceImpact": 2.01,
+        "time": 1761211485596
+      },
+      {
+        "type": "buy",
+        "wallet": 2,
+        "amount": 16.91,
+        "priceImpact": 3.1,
+        "time": 1761211484095
+      },
+      {
+        "type": "buy",
+        "wallet": 10,
+        "amount": 23.07,
+        "priceImpact": 2.04,
+        "time": 1761211482595
+      },
+      {
+        "type": "buy",
+        "wallet": 4,
+        "amount": 18.07,
+        "priceImpact": 0.66,
+        "time": 1761211481094
+      },
+      {
+        "type": "buy",
+        "wallet": 7,
+        "amount": 21.75,
+        "priceImpact": 1.7,
+        "time": 1761211478092
+      },
+      {
+        "type": "buy",
+        "wallet": 12,
+        "amount": 20.09,
+        "priceImpact": 2.48,
+        "time": 1761211476591
+      },
+      {
+        "type": "buy",
+        "wallet": 5,
+        "amount": 17.91,
+        "priceImpact": 2.65,
+        "time": 1761211475090
+      }
+    ],
+    "pumpMessageId": null,
+    "awaitingWithdrawAddress": false,
+    "withdrawAddress": null
+  }
+}
