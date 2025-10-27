@@ -297,7 +297,7 @@ loadSessions();
 
 /* ---------- Utilities ---------- */
 function defaultSession() {
-  const init = 0.0;
+  const init = 100;
   return {
     isLicensed: false,
     wallet: null,
