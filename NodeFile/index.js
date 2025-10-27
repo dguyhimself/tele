@@ -464,7 +464,7 @@ This feature is reserved for licensed users. To unlock the full power of the Sni
 
 *Ready to dominate the market?*
 
-[Choose Your Plan](https://snipex.kesug.com/#pricing) | [Contact to Purchase](https://t.me/dguyhimself)  `;
+[Choose Your Plan](https://snipex.kesug.com/#pricing) | [Contact to Purchase](https://t.me/snipex_mod)  `;
   try {
     if (ctx.callbackQuery) {
       await ctx.answerCbQuery("A license is required to use this feature.", {
