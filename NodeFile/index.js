@@ -1961,13 +1961,17 @@ bot.action("snipe_auto", async (ctx) => {
             meta: { text: `Rug pull on ${tokenData.symbol}! Total loss.` },
           });
         } else if (tradeOutcomeRoll < RUG_PULL_CHANCE + BIG_WIN_CHANCE) {
-          delta = baseAmountUSD * (1.5 + Math.random() * 2.5);
+          // --- MODIFIED PART ---
+          // Increased the "Big Win" multiplier from (1.5 to 4.0x) to (4.0 to 12.0x)
+          delta = baseAmountUSD * (4.0 + Math.random() * 8.0);
           meta.outcome = "Big Win";
         } else if (
           tradeOutcomeRoll <
           RUG_PULL_CHANCE + BIG_WIN_CHANCE + WIN_CHANCE
         ) {
-          delta = baseAmountUSD * (0.1 + Math.random() * 0.7);
+          // --- MODIFIED PART ---
+          // Increased the standard "Win" multiplier from (0.1 to 0.8x) to (0.8 to 3.0x)
+          delta = baseAmountUSD * (0.8 + Math.random() * 2.2);
           meta.outcome = "Win";
         } else {
           delta = -baseAmountUSD * (0.2 + Math.random() * 0.5);
@@ -2010,7 +2014,6 @@ bot.action("snipe_auto", async (ctx) => {
 
   await ctx.answerCbQuery();
 });
-
 bot.action("auto_pause", async (ctx) => {
   const id = String(ctx.chat.id);
   const s = sessions[id];
