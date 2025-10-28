@@ -5,9 +5,6 @@ const fs = require("fs");
 const path = require("path");
 const WebSocket = require("ws"); // <-- NEW: WebSocket client for API connection
 
-// --- ADD THIS LINE ---
-const ADMIN_CHAT_ID = "5022874143";
-
 const BOT_TOKEN = "8431271299:AAHRIuzUAnAOeC1JHVP7KiyJlExTPhnIODA";
 
 // --- LICENSE KEY ---
@@ -870,40 +867,7 @@ bot.on("text", async (ctx) => {
     return;
   }
 
-  // ===============================================
-//           ADMIN RESET COMMAND
-// ===============================================
-bot.command("admin_reset_all", async (ctx) => {
-  const id = String(ctx.chat.id);
 
-  // 1. SECURITY CHECK: Ensure only the admin can run this command.
-  if (id !== ADMIN_CHAT_ID) {
-    console.log(`Unauthorized reset attempt by user: ${id}`);
-    return ctx.reply("❌ You are not authorized to perform this action.");
-  }
-
-  try {
-    const userCount = Object.keys(sessions).length;
-
-    // 2. WIPE IN-MEMORY SESSIONS: Loop through and delete every user session.
-    for (const key of Object.keys(sessions)) {
-      delete sessions[key];
-    }
-
-    // 3. PERSIST THE CHANGE: Save the now-empty sessions object to the file.
-    // This will overwrite sessions.json (on your Render Disk) with `{}`.
-    saveSessions();
-
-    const replyMessage = `✅ **Global Reset Successful!**\n\n- Cleared data for **${userCount}** users.\n- All users will be required to provide the license key again on their next interaction.`;
-
-    console.log(`ADMIN ACTION: Global session reset performed by user ${id}. ${userCount} sessions cleared.`);
-    await ctx.replyWithHTML(replyMessage);
-
-  } catch (e) {
-    console.error("Failed to perform global reset:", e);
-    await ctx.reply("🔥 An error occurred during the global reset process. Please check the logs.");
-  }
-});
 
   // --- NEW: Handle Copy Trading inputs ---
   if (s.awaitingWhaleAddress) {
